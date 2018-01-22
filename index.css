@@ -114,7 +114,7 @@ i{
     color: black;
     text-align: center;
     position: absolute;
-    top:150px;
+    top:50px;
     left:0;
     right:0;
     margin-left:auto;
@@ -145,7 +145,7 @@ i{
     position: absolute;
     left:0;
     right:0;
-    top:640px;
+    top:440px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -163,11 +163,11 @@ i{
     background: #f7b724;
 }
 .menu{
-    margin-top: 380px;
+    margin-top: 280px;
     position: relative;
 }
 .menu-left1{
-    margin-top: 380px;
+    margin-top: 280px;
     position: relative;
     padding: 26.75% 0 0 0;
 }
